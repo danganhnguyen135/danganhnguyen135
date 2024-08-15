@@ -15,7 +15,7 @@ I am learning HTML CSS JS Java SQL
 -   <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; <samp>I’m currently learning Data Structures and Algorithms on [Titv]();
 -   <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; <samp>Ask me about anything, I am happy to help;
 -   <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; <samp>I regulary write articles on [Facebook]();
--   <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; <samp>How to reach me:;
+-   <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; <samp>How to reach me: https://www.facebook.com/nlu.danganhnguyen;
 -   <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; <samp>[Resume]().
 
 </br>
